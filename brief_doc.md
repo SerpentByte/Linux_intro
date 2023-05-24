@@ -24,7 +24,7 @@ mv **-r** \[SOURCE\] \[DEST\] (this will copy files as well as folders)<br>
 *one needs to replace SOURCE and DEST with the actual file or directory names.*<br>
 The examples and usage are similar to ```cp```.
 
-## to show the contents of a directory or the current working directory (ls):<br>
+### to show the contents of a directory or the current working directory (ls):<br>
 ls: to show the contents of directories<br>
 syntax:<br>
 ls (shows the contents of the current directory)<br>
@@ -35,7 +35,7 @@ examples:<br>
 ```ls ../reports/``` --> this shows the contents of the directory *reports* located a level higher<br>
 ```ls new_reports/``` --> this shows the contents of the directory *new_reports* located at the current directory<br>
 
-## to create a new directory (mkdir):<br>
+### to create a new directory (mkdir):<br>
 mkdir: to create a new directory<br>
 syntax:<br>
 mkdir \[PATH\]/\[directory name\] (create a new directory at the specified \[PATH\]<br>
@@ -44,7 +44,7 @@ examples:<br>
 ```mkdir ~/Documents/new_dir``` --> create a directory named *new_dir* in the directory *Documents* location at HOME (```~/```)<br>
 ```mkdir dir1/dir2``` --> creates a directory named *dir2* inside the already existing directory *dir1*<br>
 
-## to remove folders and files (rm):<br>
+### to remove folders and files (rm):<br>
 rm: to remove files and folders/directories<br>
 syntax:<br>
 rm \[PATH\] (this will not remove/delete folders)<br> 
