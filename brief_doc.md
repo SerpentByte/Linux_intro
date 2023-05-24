@@ -1,4 +1,4 @@
-# Exercises to practice the usage of a few basic Linux commands
+# Brief documentation on the usage of a few basic Linux commands
 
 Via the following exercises we would learn to use the commands: 
 ```mkdir``` , ```cp``` , ```mv``` , ```ls``` and ```rm```.
