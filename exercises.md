@@ -3,7 +3,7 @@
 ```help```: use the following to create a blank file<br>
 ```touch [filename]```<br><br>
 
-## Exercises
+## Exercise-1
 1. create a directory named *dir1* at your home directory.<br>
 2. go inside *dir1*.<br>
 3. create a blank file called *file1.txt*.<br>
