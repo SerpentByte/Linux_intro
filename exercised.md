@@ -12,7 +12,7 @@
 6. create a directory *dir2*.<br>
 7. go inside *dir2*.<br>
 8. copy the blank file created in step-2 here.<br>
-9. delete the file *file1.txt* that you copied from the local (current) directory.<br>
+9. delete the file *file1.txt*, that you copied, from the local (current) directory.<br>
 10. copy create another directory called *dir3*.<br>
 11. go inside *dir3*.<br>
 12. move the file created in step-2 to the current location (use multiple ```../``` like ```cp ../../some_directory/some_file .``` to access the file).<br>
